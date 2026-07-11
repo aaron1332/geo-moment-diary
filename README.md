@@ -5,8 +5,7 @@ Link Video Demo Aplikasi
 https://youtube.com/shorts/cMPU76MMcug
 
 Link Laporan 
-https://drive.google.com/file/d/14mTLu1odxhFWT0sygzpWMon5wCDq23u1/view?usp=sharing
-
+https://drive.google.com/file/d/1XfOc4ZRk6NAFWH2Bp7yRiSZFer7ZSX2u/view?usp=drive_link
 
 ## Instalasi & Menjalankan Aplikasi
 
