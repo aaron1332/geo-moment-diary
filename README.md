@@ -19,8 +19,8 @@ https://drive.google.com/file/d/1XfOc4ZRk6NAFWH2Bp7yRiSZFer7ZSX2u/view?usp=drive
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/USERNAME/nama-repo.git
-   cd nama-repo
+   git clone https://github.com/aaron1332/geo-moment-diary.git
+   cd geo-moment-diary
    ```
 
 2. **Install dependency**
